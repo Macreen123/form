@@ -20,7 +20,7 @@ Here are some resources to help you conquer the database challenge:
    ->[PHP MySQL CRUD Application Tutorial](https://www.tutorialrepublic.com/php-tutorial/php-mysql-crud-application.php)
  * Version Control (because we'd want to track progress of you dev wiz!):
    ->[An Intro to Git and GitHub for Beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
-This task is all about showing off your full-stack prowess, from making things look good to making them work flawlessly behind the scenes. Unleash your creativity, have a blast building it, and don't be afraid to experiment! in case of questions, we have the super powers to answering them (Google) and little on AI ;-). but if you get really lost, check on this guy +255762028554 (Only on whatsapp). and I want you to know this!👇
+This task is all about showing off your full-stack prowess, from making things look good to making them work flawlessly behind the scenes. Unleash your creativity, have a blast building it, and don't be afraid to experiment! in case of questions, we have the super powers to answering them (Google) and little on AI ;-). but if you get really lost, check on this guy +255762028554 (Only on whatsapp) or you can easily mail it to kitanorman1@gmail.com . and lastlybt not least I want you to know this!👇
 > "There are only 10 types of people in the world: those who understand binary, and those who don't."
 
 
