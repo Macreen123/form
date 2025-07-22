@@ -1,0 +1,49 @@
+<html>
+ <head>
+    <title>REGISTRATION</title>
+
+ </head> 
+
+ <body>
+  <h1>PERSON INFORMATION</h1>
+<form>
+    <label for="firstname">firstname</label>
+    <input type="text" name="firstname" id="firstname"><br>
+    <label for="lastname">lastname</label>
+    <input type="text" name="lastname"><br>
+    <lable for="email">email</lable>
+    <input type="text" name="email" id="email"><br>
+    <lable>GENDER:</lable>
+    <label>male</label>
+    <input type="Radio"id="male" name="Gender"value="male">
+    <label>female</label>
+    <input type="Radio" id="female" name="Gender" value="female"><br>
+    <label for="country">Country</label>
+    <select id="COUNTRY" name="Country" value="COUNTRY"><br>
+    <option value="">select country</option>
+    <option value="TANZANIA">TANZANIA</option>
+    <option value="KENYA">KENYA</option>
+    <option value="UGANDA">UGANDA</option>
+      <option value="SOUTHAFRICA">SOUTHAFRICA</option>
+     <option value="SOMALIA">SOMALIA</option>
+      <option value="DRCCONGO">DRC CONGO</option>
+     </select>
+     <div id="capital"></div>
+   <input type="submit" name="submit" value="submit">
+</form>
+<script>
+    function showcapitals() {
+        var country=docoment.elementbyid ("country") .value;
+        var capital={
+          "TANZANIA": "Dodoma",
+          "KENYA":"Nairobi",
+          "UGANDA":"Kampala",
+        "SOUTHAFRICA":"Pretoria",
+        "SOMALIA":"Mogadishu",
+        "DRCCONGO":"Kinshasa",
+        }
+        Document.elementbyid("capital").innerHtml="capital of" + country + " is" +capital[country];
+    }
+</script>
+ </body>
+</html>
